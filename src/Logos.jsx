@@ -20,7 +20,7 @@ function Logos() {
           </div>
 
           <div style={{ textAlign: 'center', margin: '0 10px' }}>
-            <a href="https://datapassq.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://portfolio.passebecq.ch" target="_blank" rel="noopener noreferrer">
               <img src="/icons/suitcase.png" alt="Link Logo" style={{ width: '45px' }} />
             </a>
             <p style={{ margin: 0, color: 'black' }}>Portfolio </p>

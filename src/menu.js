@@ -13,10 +13,10 @@ function ResponsiveAppBar() {
     <AppBar position="static" sx={{ backgroundColor: 'black' }}>
       <Toolbar disableGutters >
       <Box sx={{ display: 'flex', alignItems: 'center' }}>
-          <a href="https://github.com/julian-passebecq" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/txn100" target="_blank" rel="noopener noreferrer">
             <img src="/icons/gt1.svg" alt="GitHub Logo" style={{ width: '30px', marginRight: '20px', marginLeft: '10px' }} />
           </a>
-          <a href="https://github.com/julian-passebecq" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/txn100" target="_blank" rel="noopener noreferrer">
             <img src="/icons/linkd.svg" alt="Link Logo" style={{ width: '35px', marginRight: '20px' }} />
           </a>
 

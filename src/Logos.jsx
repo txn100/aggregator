@@ -14,7 +14,7 @@ function Logos() {
       <Toolbar disableGutters sx={{ width: '100%', justifyContent: 'center' }}>
         <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%' }}>
           <div style={{ textAlign: 'center', margin: '0 10px' }}>
-            <a href="https://github.com/julian-passebecq" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/txn100" target="_blank" rel="noopener noreferrer">
               <img src="/icons/associate.svg" alt="GitHub Logo" style={{ width: '65px' }} />
             </a>
           </div>
